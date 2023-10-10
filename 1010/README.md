@@ -18,6 +18,24 @@
 > * output3 <br>
 > 1 <br>
 
+## 解題:(分三種)
+1. `value<0`
+>無法計算
+3. `value=0`
+>value =1
+4. `value>1`
+>這次的重點<br>
+>n*(n-1)*(n-2)*.....*1 <br>
+><strong><em>換個思路: </em></strong><br>
+>1*(1+1)*(2+1)*....*n <br>
+
+   
+
+
+<br>
+
+`c:`
+
 ``` c
 #include <stdio.h>
 
@@ -47,3 +65,36 @@ int main()
     return 0;// end
 }
 ```
+<br>
+
+`cpp:`
+```cpp
+#include <iostream>
+
+int main()
+{
+
+    long long p = 1; 
+    int n = 0;
+    cin>>n;// input
+    if (n < 0)      // if n value < 0 
+    {
+        cout<<"ERROR";// print error
+        return 0;       // programming  end
+    }
+    if (n == 0)  // if n=0
+    {
+        cout<<1; //0!=1
+        return 0; // programming end
+    }
+
+    for (int i = 1; i <= n; i++)// 1*(1+1)*(1+1+1)*......1*n
+    {
+        p = p * i;
+    }
+    cout<<p;// print ans
+
+    return 0;// end
+}
+```
+
