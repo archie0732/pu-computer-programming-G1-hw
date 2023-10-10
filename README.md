@@ -13,3 +13,8 @@ author: 神里綾華的狗
 <strong>圖片 </strong>
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/tree/main/picture) <br>
 
+
+<br>
+
+![](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/picture/f4e645568f6c8a0e4bac9e5a5bc5c3cd.jpg)
+
