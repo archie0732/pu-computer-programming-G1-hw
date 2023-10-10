@@ -10,7 +10,7 @@ author: 神里綾華的狗
 <br>
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md) <br>
 
-<strong>圖片 </strong>
+<strong>圖片連結 (分享用途，如有侵權請告知) </strong>
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/tree/main/picture) <br>
 
 
