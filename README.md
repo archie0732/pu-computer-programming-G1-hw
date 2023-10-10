@@ -4,6 +4,7 @@
 <br>
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/edit/main/1003/README.md) <br>
 
-<strong> 10/10 題目(階乘) </strong><br><br>
-* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md)
+<strong> 10/10 題目(階乘) </strong>
 <br>
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md) <br>
+
