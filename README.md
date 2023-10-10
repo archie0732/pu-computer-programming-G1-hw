@@ -2,5 +2,7 @@
 
 ## 10/10 題目(階乘)
 <br>
-* [點我進入]
+
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md)
+  
 <br>
