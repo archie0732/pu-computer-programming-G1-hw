@@ -28,7 +28,9 @@
 >1. n*(n-1)*(n-2)*.....*1 <br>
 
 >2. 1*(1+1)*(2+1)*....*n <br>
+<br>
 
+![](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/picture/valorant-jett-cyan-ovb3j698gvees4fk.jpg)
    
 
 
