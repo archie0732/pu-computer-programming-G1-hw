@@ -22,6 +22,9 @@
 3. else :<br>
    print:　`price`<br>
 
+   <br>
+![]()
+
 ## 程式碼   
 `c:` <br>
 
