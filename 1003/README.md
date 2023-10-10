@@ -22,7 +22,7 @@
 3. else :<br>
    print:　`price`<br>
 
-<strong>小說裡香爆拉</strong>
+<strong>小說裡香爆拉</strong><br>
 ![](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/picture/bspk7zsjl7yxnbpcxp8zxfjtlecdv9yksnw4baww.jpg)
 
 
