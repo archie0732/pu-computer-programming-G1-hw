@@ -11,5 +11,5 @@ author: 神里綾華的狗
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md) <br>
 
 <strong>圖片 </strong>
-* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1010/README.md) <br>
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/tree/main/picture) <br>
 
