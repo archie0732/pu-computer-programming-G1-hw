@@ -27,6 +27,7 @@
 
 
 ## 程式碼
+![](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/picture/XjUmHuq.jpg)
 
 ```c
 #include <stdio.h>
