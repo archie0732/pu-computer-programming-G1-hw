@@ -61,3 +61,8 @@ int main()
     return 0;
 }
 ```
+## 其他
+* [c libary](https://github.com/archie0732/c-library)
+* [calculus solution](https://github.com/archie0732/Thomas_Calculus_12ED_Solution)
+* [cpe solution](https://github.com/archie0732/CPEB-solution/blob/main/README.md)
+* [cheap eg](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
