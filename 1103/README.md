@@ -65,6 +65,3 @@ int main()
     return 0;
 }
 ```
-#### 其他
-* [c libery]()
-* [CPEB]()
