@@ -32,7 +32,7 @@
    >否:程式輸出、結束(不再繼續)
 
 ### 程式碼
-* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/edit/main/1103/1103.c)
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1103/1103.c)
 ```c
 #include <stdio.h>
 
