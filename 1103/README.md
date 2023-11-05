@@ -22,7 +22,7 @@
 25752 is a palindrome.
 ```
 #### 所需具備能力
-1. [陣列arry]()
+1. [陣列arry](https://mycollegenotebook.medium.com/c%E8%AA%9E%E8%A8%80%E7%AD%86%E8%A8%98-%E9%99%A3%E5%88%97-array-99c459bb114d)
 2. [拆分數字(c)](https://github.com/archie0732/c-library/blob/main/slove/separation-integer.md)
 ### 解題
 1. 拆分數字(詳細請見連結)
