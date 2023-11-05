@@ -23,7 +23,7 @@
 ```
 #### 所需具備能力
 1. [陣列arry]()
-2. [拆分數字(c)]()
+2. [拆分數字(c)](https://github.com/archie0732/c-library/blob/main/slove/separation-integer.md)
 ### 解題
 1. 拆分數字(詳細請見連結)
 2. 算有幾個數字
