@@ -32,6 +32,7 @@
    >否:程式輸出、結束(不再繼續)
 
 ### 程式碼
+![](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/picture/%E8%8A%99%E5%AF%A7%E5%A8%9C001.jpg)  
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1103/1103.c)
 ```c
 #include <stdio.h>
