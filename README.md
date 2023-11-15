@@ -16,6 +16,9 @@ author: 神里綾華的狗
 
 **11/03 題目**
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/tree/main/1103)
+
+**11/15 題目**  
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1115-hw7/hw7.md)
   
 
 <strong>圖片連結 (分享用途，如有侵權請告知) </strong>
