@@ -21,7 +21,7 @@ author: 神里綾華的狗
 * [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1115-hw7/hw7.md)
 
 **11/22 題目**
-* [點我進入]()
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw/blob/main/1122/8.md)
   
 
 <strong>圖片連結 (分享用途，如有侵權請告知) </strong>
